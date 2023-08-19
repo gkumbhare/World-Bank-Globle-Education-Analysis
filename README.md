@@ -1,6 +1,7 @@
 # World-Bank-Globle-Education-Analysis
 
-![image](https://github.com/gkumbhare/World-Bank-Globle-Education-Analysis/assets/122550001/d3dc92a8-fb53-4f1f-b0d9-1c3baa4ee59a)
+![image](https://github.com/gkumbhare/World-Bank-Globle-Education-Analysis/assets/122550001/4110db36-e5c0-4bfd-9776-3bda455bcd38)
+
 
 
 The World Bank Global Education Analysis EDA project was conducted to gain insights into the current state of education across the globe. 
