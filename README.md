@@ -1,5 +1,12 @@
 # World-Bank-Globle-Education-Analysis
 
+![GitHub followers](https://img.shields.io/github/followers/gkumbhare)
+![Static Badge](https://img.shields.io/badge/EDA-RGB)
+
+
+
+
+
 ![image](https://github.com/gkumbhare/World-Bank-Globle-Education-Analysis/assets/122550001/4110db36-e5c0-4bfd-9776-3bda455bcd38)
 
 
